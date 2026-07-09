@@ -517,4 +517,4 @@ A consistent evidence trail is what separates a defensible professional report f
 
 *This document is intended as a professional methodology reference for authorized security engagements. It does not contain, and is not intended to serve as, executable attack tooling.*
 
-END OF DOCUMENT
+
