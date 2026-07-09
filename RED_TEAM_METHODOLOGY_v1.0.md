@@ -1664,5 +1664,3 @@ synthesized from:
 *"The goal is not to compromise the domain. The goal is to understand WHY you compromised the domain."*
 
 ---
-
-END OF DOCUMENT
